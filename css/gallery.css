@@ -1,0 +1,35 @@
+#g_banner_title p {
+	font-size: 12px;
+	font-family: sans-serif;
+	color: blue;
+
+	padding: 10px;
+}
+#b_color{
+}
+#banner_img{padding-bottom: 5px;
+	border-radius: 2px 2px 2px 2px;
+	
+}
+.col-md-4{
+	padding-top: 10px;
+}
+#heading p {font-size: 60px;margin-top: 0px;
+font-family: 'Long Cang', cursive;
+margin-left: 70px;
+color: rgb(102,102,102);
+text-shadow:4px 1px 5px #9265e4; 
+}
+#main_heading{
+	padding: auto;
+	margin:auto;
+	margin-left: 20%;
+}
+.row img {
+        width: 100%;
+        transition: 0.5s all ease-in-out;
+    }
+       
+    .row:hover img {
+        transform: scale(1.5);
+    }

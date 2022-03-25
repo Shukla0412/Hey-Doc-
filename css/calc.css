@@ -1,0 +1,22 @@
+h1{
+	margin-top: 10px;
+}
+.container{
+	border: 1px solid grey;
+	padding: 27px;
+	width: 75%;
+	
+}
+.padd{
+	padding: 0px;
+	margin: 0px;
+}
+.color{
+	background: linear-gradient(#F5E8C7,#DEBA9D);
+}
+.size{
+	font-size: 30px;
+}
+#answer{
+	background-color: beige;
+}

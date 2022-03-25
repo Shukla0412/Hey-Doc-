@@ -1,0 +1,75 @@
+.shadow{
+	text-shadow: 2px 2px 10px #654ea3;
+}
+.text{
+	font-size: 20px;
+	font-family: arial;
+	line-height: 1.3em;
+}
+.font{
+	font-size: 60px;
+	font-style: italic;
+}
+.gap{
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+#header{
+	color: white;
+background: linear-gradient(to left, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#logo{
+	font-size: 2rem;
+	margin-top: 5px;
+	text-shadow: 2px 2px 10px gray;
+}
+#menu ul li a{
+	color: white;
+	display: block;
+	margin-top: 5px;
+}
+
+#menu ul li a:hover{
+	background-color: #4A235A;
+}
+#banner{
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+       
+background-image: url(../MPimg/img_1.jpg);
+}
+.banner-title{
+	padding-top: .5rem;
+}
+.banner-title h1{
+	background: rgba(255,255,255,.8);
+	display: inline-block; 
+	padding: 10px;
+	margin: 0px;
+}
+.banner-title p.lead{
+	background-color: #A569BD;
+	padding: 10px;
+	color: #E8DAEF;
+}
+#intro_para{
+	margin-top:7px;
+}
+#intro_para p{
+	font-size: 20px;
+	font-family: arial;
+	color: white;
+	line-height: 1.3em;
+}
+#heading p {font-size: 110px;margin-top: 0px;
+font-family: 'Long Cang', cursive;
+margin-left: 70px;
+color: rgb(102,102,102);
+text-shadow: 0px -3px 1px #000033;
+}
+#main_heading{
+	padding: auto;
+	margin:auto;
+}
